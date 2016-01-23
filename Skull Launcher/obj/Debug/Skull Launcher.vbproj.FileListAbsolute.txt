@@ -1,0 +1,11 @@
+c:\users\salvador\documents\visual studio 2015\Projects\Skull Launcher\Skull Launcher\bin\Debug\Skull Launcher.exe.config
+c:\users\salvador\documents\visual studio 2015\Projects\Skull Launcher\Skull Launcher\bin\Debug\Skull Launcher.exe
+c:\users\salvador\documents\visual studio 2015\Projects\Skull Launcher\Skull Launcher\bin\Debug\Skull Launcher.pdb
+c:\users\salvador\documents\visual studio 2015\Projects\Skull Launcher\Skull Launcher\bin\Debug\Skull Launcher.xml
+c:\users\salvador\documents\visual studio 2015\Projects\Skull Launcher\Skull Launcher\obj\Debug\Skull Launcher.vbprojResolveAssemblyReference.cache
+c:\users\salvador\documents\visual studio 2015\Projects\Skull Launcher\Skull Launcher\obj\Debug\Skull_Launcher.Form1.resources
+c:\users\salvador\documents\visual studio 2015\Projects\Skull Launcher\Skull Launcher\obj\Debug\Skull_Launcher.Resources.resources
+c:\users\salvador\documents\visual studio 2015\Projects\Skull Launcher\Skull Launcher\obj\Debug\Skull Launcher.vbproj.GenerateResource.Cache
+c:\users\salvador\documents\visual studio 2015\Projects\Skull Launcher\Skull Launcher\obj\Debug\Skull Launcher.exe
+c:\users\salvador\documents\visual studio 2015\Projects\Skull Launcher\Skull Launcher\obj\Debug\Skull Launcher.xml
+c:\users\salvador\documents\visual studio 2015\Projects\Skull Launcher\Skull Launcher\obj\Debug\Skull Launcher.pdb
